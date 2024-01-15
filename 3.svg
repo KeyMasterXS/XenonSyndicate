@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+<metadata>
+    Artist: Nena
+  </metadata>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="83.829" cy="111.918" rx="35.139" ry="47.054" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="208.309" cy="244.109" rx="39.507" ry="58.292" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)"/>
+  <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="391.321" cy="380.749" rx="44.976" ry="62.267" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)"/>
+  <path d="M 90.01 158.968 L 98.822 178.072 L 81.198 178.072 L 90.01 158.968 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)" bx:shape="triangle 81.198 158.968 17.624 19.104 0.5 0 1@e7cbcdb6"/>
+  <path d="M 202.986 300.94 L 209.033 318.574 L 196.938 318.574 L 202.986 300.94 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)" bx:shape="triangle 196.938 300.94 12.095 17.634 0.5 0 1@8dac6076"/>
+  <path d="M 390.045 440.529 L 397.763 461.08 L 382.327 461.08 L 390.045 440.529 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" transform="matrix(1, 0, 0, 1, 7.105427357601002e-15, 7.105427357601002e-15)" bx:shape="triangle 382.327 440.529 15.436 20.551 0.5 0 1@2ae5cc00"/>
+</svg>
