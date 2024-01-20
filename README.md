@@ -1,2 +1,3 @@
 Everything adds up.
-SONG + SONG + SONG = ?
+
+SUMMER + NOSTALGIC YEAR + BALLOONS = ?
