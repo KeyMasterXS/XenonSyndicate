@@ -1,3 +1,3 @@
 Everything adds up.
 
-SUMMER + NOSTALGIC YEAR + BALLOONS = ?
+SUMMER + PARTY YEAR + BALLOONS = ?
